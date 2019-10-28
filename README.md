@@ -1,6 +1,6 @@
 # SDS FELLOWSHIP CHALLENGE
 
-GROUP 1 Challenge 1
+## GROUP 1 Challenge 1
 Creating Artificial Dataset
 Week 1-2 
 
@@ -20,7 +20,7 @@ Deadlines:
 4.	Fri, October 11th: announcing the dataset which got the most of the “likes” from the group.
 
 
-GROUP 1 Challenge 2
+## GROUP 1 Challenge 2
 Cleaning the Artificial Dataset
 Week 2-3 
 
